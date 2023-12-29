@@ -4,7 +4,7 @@ Yoko not only offers delectable Japanese cuisine but also provides the unique op
 `HTML`<br>
 `CSS`
 ## What I learned/Practiced 💪
-- Linking css with html using classes
+- Linking css with html using the `class` attribute
 - Applying some new html tags like `hgroup` `nav` `figure` `article` `footer`
 
 ## Video 🎥
